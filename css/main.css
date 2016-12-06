@@ -16,3 +16,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.img-flex {
+  width: 100%;
+  display: block;
+}
