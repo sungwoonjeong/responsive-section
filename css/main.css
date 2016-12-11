@@ -56,3 +56,19 @@ section h2 {
 section p {
   margin: 0;
 }
+
+@media only screen and (min-width: 25em)  {
+
+  .wrapper {
+    margin: 0 1.4rem 1.4rem;
+  }
+
+  .section-icon {
+    padding: 1em;
+  }
+
+  .section-letter {
+    padding: 1em;
+  }
+
+}
