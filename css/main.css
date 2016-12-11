@@ -125,3 +125,33 @@ section p {
   }
 
 }
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+    line-height: 1.5;
+  }
+
+  section {
+    margin: auto;
+    overflow: hidden;
+  }
+
+  .wrapper {
+    margin: 1.4rem;
+  }
+
+  .section-icon {
+    float: right;
+    width: 15%;
+    padding: 0;
+  }
+
+  .section-letter {
+    float: left;
+    width: 15%;
+    padding: 0;
+  }
+
+}
