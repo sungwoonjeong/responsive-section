@@ -25,6 +25,14 @@ html {
 body {
   margin: 0;
 }
+
+section {
+    background-color: #e5c30a;
+    margin: 0;
+}
+
 .wrapper {
-  background-color: #e5c30a;
+  max-width: 45em;
+  margin: 1.4em;
+  display: inline-block;
 }
