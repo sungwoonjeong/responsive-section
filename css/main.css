@@ -27,8 +27,8 @@ body {
 }
 
 section {
-    background-color: #e5c30a;
-    margin: 0;
+  background-color: #e5c30a;
+  margin: 0;
 }
 
 .wrapper {
@@ -72,6 +72,7 @@ section p {
   }
 
 }
+
 @media only screen and (min-width: 38em) {
 
   html {
