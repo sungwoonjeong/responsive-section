@@ -36,3 +36,15 @@ section {
   margin: 1.4em;
   display: inline-block;
 }
+
+.section-letter {
+  width: 49%;
+  margin: 0;
+  display: inline-block;
+}
+
+.section-icon {
+  width: 49%;
+  margin: 0;
+  display: inline-block;
+}
